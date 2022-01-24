@@ -1,3 +1,4 @@
+#python program to check whether a number is prime or not
 a = int(input("type ur no."))
 b = a//2
 c = a%2
@@ -11,4 +12,4 @@ if c != 0:
    print(a,'is a prime no.')
 else:
   print(a,'is not a prime no.')
-  
+#by Farhan GM
